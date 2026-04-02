@@ -1,2 +1,3 @@
-# cadastro-clientes
-Sistema simples de listagem de clientes - React + Vite
+# React + Vite Project
+
+Scaffolded by Dev Ao Cubo MCP.
